@@ -6,7 +6,7 @@ A tiny calculator built with plain HTML, CSS and JavaScript. Used to demo Git, G
 
 Clone the repo and double-click `index.html`. No installs, no server.
 
-## Run the tests (in the browser)
+## Run the tests (in the browser) ok
 
 Open `tests/tests.html`. It shows PASS/FAIL for each test.
 
